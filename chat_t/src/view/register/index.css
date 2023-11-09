@@ -1,0 +1,10 @@
+.register{
+  height: 100vh;
+  background-image: url('../../../public/background/02.png');
+  background-size: 110%;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
